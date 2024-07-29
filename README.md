@@ -15,3 +15,7 @@ __University of Central Punjab__ | BSCS | 2022-Present
                                                                Relevant Coursework: Data Structures and Algorithms (DSA), Introduction to Database Systems, Programming for Big Data, Linear Algebra, Object-Oriented Programming, Multivariate Calculus
 
 __atomcamp__ | Data Science and AI Bootcamp | June 2024-Present
+
+# Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/abdul-raffay-naeemm/)
+- Email:[abdulraffaynaeem04@gmail.com]

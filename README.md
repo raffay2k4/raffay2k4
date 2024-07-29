@@ -9,3 +9,8 @@ Moreover, I am a Data Science and AI enthusiast, eager to explore these fields f
 My expertise includes:
 - __Data Analytics__ using SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), and Advanced Microsoft Excel.
 - __Data Visualization__ through Microsoft Power BI and Excel.
+
+# Education
+__University of Central Punjab__ | BSCS | 2022-Present
+
+__atomcamp__ | Data Science and AI Bootcamp | June 2024-Present

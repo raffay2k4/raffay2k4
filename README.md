@@ -18,4 +18,4 @@ __atomcamp__ | Data Science and AI Bootcamp | June 2024-Present
 
 # Connect With Me
 - LinkedIn: [Abdul Raffay Naeem](https://www.linkedin.com/in/abdul-raffay-naeemm/)
-- Email: [abdulraffaynaeem04@gmail.com]
+- Email: [abdulraffaynaeem04@gmail.com]()

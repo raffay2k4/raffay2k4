@@ -17,5 +17,5 @@ __University of Central Punjab__ | BSCS | 2022-Present
 __atomcamp__ | Data Science and AI Bootcamp | June 2024-Present
 
 # Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/abdul-raffay-naeemm/)
-- Email:[abdulraffaynaeem04@gmail.com]
+- LinkedIn: [Abdul Raffay Naeem](https://www.linkedin.com/in/abdul-raffay-naeemm/)
+- Email: [abdulraffaynaeem04@gmail.com]

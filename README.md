@@ -1,14 +1,18 @@
 # About me
-Hi, my name is Abdul Raffay Naeem. I am currently in the third year of my Bachelor of Science in Computer Science (BSCS). As a motivated 3rd-year Computer Science student, I am passionate about using my technical skills to solve real-world problems. I am proficient in multiple programming languages, including C++ and Python.
+Hi, my name is Abdul Raffay Naeem. I am a motivated 3rd-year Computer Science student with a passion for Data Science and AI. I enjoy making data spill its secrets and teaching AI to think smarter.
 
-My interest lies in the field of data and its analysis, which has driven me to hone my skills in Data Analytics and Visualization. I am proficient in tools such as Microsoft Excel and Power BI, through which I have created many insightful and visually appealing dashboards. I have developed strong expertise in SQL, mastering fundamentals such as joins, CTEs, window functions, and group by operations to efficiently manipulate data. Additionally, I am highly skilled in QGIS, enabling me to conduct spatial analysis and derive valuable insights.
+I am proficient in tools such as Microsoft Excel and Power BI, through which I have created many insightful and visually appealing dashboards. I have developed strong expertise in SQL, mastering fundamentals such as joins, CTEs, window functions, and group by operations to efficiently manipulate data.
 
-Moreover, I am a Data Science and AI enthusiast, eager to explore these fields further.
+I have a strong foundation in Machine Learning and AI, with expertise in building predictive models using scikit-learn. My experience extends to working with neural networks, utilizing PyTorch and TensorFlow to develop and optimize complex models. My enthusiasm for computer vision has led me to gain proficiency in Convolutional Neural Networks (CNN) and YOLO, where I have honed my skills in model fine-tuning and advanced image analysis techniques.
+
+I am also eager to explore Natural Language Processing (NLP) and Large Language Models (LLMs) to further enhance my capabilities in these exciting areas.
 
 # Skills
 My expertise includes:
 - __Data Analytics__ using SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), and Advanced Microsoft Excel.
-- __Data Visualization__ through Microsoft Power BI and Excel.
+- __Data Visualization__ using Microsoft Power BI and Excel.
+- **Machine Learning** using Scikit-learn, PyTorch, TensorFlow, ResNet
+- **Computer Vision** using CNN, YOLO, U-NET
 
 # Education
 __University of Central Punjab__ | BSCS | 2022-Present                                                                                                                               

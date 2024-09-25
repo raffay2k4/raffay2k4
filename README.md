@@ -11,8 +11,8 @@ I am also eager to explore Natural Language Processing (NLP) and Large Language 
 My expertise includes:
 - __Data Analytics__ using SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), and Advanced Microsoft Excel.
 - __Data Visualization__ using Microsoft Power BI and Excel.
-- **Machine Learning** using Scikit-learn, PyTorch, TensorFlow, ResNet
-- **Computer Vision** using CNN, YOLO, U-NET
+- **Machine Learning** using Scikit-learn, PyTorch and TensorFlow
+- **Computer Vision** using CNN, YOLO, U-NET and ResNet
 
 # Education
 __University of Central Punjab__ | BSCS | 2022-Present                                                                                                                               

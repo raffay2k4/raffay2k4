@@ -5,7 +5,9 @@ I am proficient in tools such as Microsoft Excel and Power BI, through which I h
 
 I have a strong foundation in Machine Learning and AI, with expertise in building predictive models using scikit-learn. My experience extends to working with neural networks, utilizing PyTorch and TensorFlow to develop and optimize complex models. My enthusiasm for computer vision has led me to gain proficiency in Convolutional Neural Networks (CNN) and YOLO, where I have honed my skills in model fine-tuning and advanced image analysis techniques.
 
-I am also eager to explore Natural Language Processing (NLP) and Large Language Models (LLMs) to further enhance my capabilities in these exciting areas.
+I also specialize in AI chatbot development, leveraging LangChain and LangGraph to build advanced conversational AI systems with seamless external data integration. My expertise in Retrieval-Augmented Generation (RAG) ensures highly contextual responses, while Chainlit enables the creation of chat interfaces.
+
+Additionally, I use FastAPI to deploy and scale AI models through robust API endpoints.
 
 # Skills
 My expertise includes:

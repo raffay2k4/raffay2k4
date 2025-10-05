@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Abdul Raffay Naeem. I am a motivated 3rd-year Computer Science student with a passion for Data Science and AI. I enjoy making data spill its secrets and teaching AI to think smarter.
+Hi, my name is Abdul Raffay Naeem. I am a Final Year Computer Science student with a passion for Data Science and AI. I enjoy making data spill its secrets and teaching AI to think smarter.
 
 I am proficient in tools such as Microsoft Excel and Power BI, through which I have created many insightful and visually appealing dashboards. I have developed strong expertise in SQL, mastering fundamentals such as joins, CTEs, window functions, and group by operations to efficiently manipulate data.
 

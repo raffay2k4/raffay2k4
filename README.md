@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Abdul Raffay Naeem. I am a Final Year Computer Science student with a passion for Data Science and AI. I enjoy making data spill its secrets and teaching AI to think smarter.
+Hi, my name is Abdul Raffay Naeem. I am a Computer Science graduate with a passion for Data Science and AI. I enjoy making data spill its secrets and teaching AI to think smarter.
 
 I am proficient in tools such as Microsoft Excel and Power BI, through which I have created many insightful and visually appealing dashboards. I have developed strong expertise in SQL, mastering fundamentals such as joins, CTEs, window functions, and group by operations to efficiently manipulate data.
 
@@ -17,7 +17,7 @@ My expertise includes:
 - **Computer Vision** using CNN, YOLO, U-NET and ResNet
 
 # Education
-*__University of Central Punjab__ | BSCS | 2022-Present*
+*__BSCS__ | 2022-2026*
 
 Relevant Coursework: Artificial Intelligence, Cloud Computing, Data Structures and Algorithms (DSA), Design and Analysis of Algorithms, Software Engineering, Image Processing, Introduction to Database Systems, Operating Systems, Programming for Big Data, Theory of Automata, Computer Communications and Networks, Linear Algebra, Object-Oriented Programming, Multivariate Calculus
 
